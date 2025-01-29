@@ -4,8 +4,7 @@
 ## 📌 Overview
 The **Travel Recommendations Website** is a **PHP-based web application** that helps users find and book travel experiences. It features **user authentication, feedback submission, and travel recommendations**.
 
-## 📂 Project Structure
-```
+ 📂 Project Structure
 nesarw-travel-recommendations-website/
 │── README.md                   # Project Documentation
 │── index.php                    # Homepage
@@ -27,7 +26,7 @@ nesarw-travel-recommendations-website/
 │── style1.css - style9.css        # Styling for the website
 │── image/
 │   └── changla.webp               # Sample image for UI
-```
+
 
 ## 🚀 Getting Started
 
