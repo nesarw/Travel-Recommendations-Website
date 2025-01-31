@@ -39,7 +39,7 @@ Ensure you have the following installed:
 ### 2️⃣ Installation
 Clone the repository and set up the database:
 ```bash
-git clone https://github.com/yourusername/nesarw-travel-recommendations-website.git
+git clone https://github.com/nesarw/nesarw-travel-recommendations-website.git
 cd nesarw-travel-recommendations-website
 ```
 
